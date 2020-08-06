@@ -25,8 +25,7 @@ one wants to see.
 
 ## What App Contains
 **Roster Section:** Contains specified stats for each player on the roster. Scroll down to find the different 
-stats in a drop-down menu to compare each player with. The football roster contains the stats of the most recent 
-(in this case 2019) season. 
+stats in a drop-down menu to compare each player with. 
 
 **Schedule Section:** Contains the most recent schedule for both teams. 
 
@@ -34,8 +33,9 @@ stats in a drop-down menu to compare each player with. The football roster conta
 
 ## Warnings
 The basketball roster contains stats from all seasons the player has played uptill the 
-most current, while the football roster has just the current season. This was how the Python sportsreference 
-library gathered the information for each, which differed. But both is uptill or for the most recent season.
+most current. In contrast, the football roster contains the stats of the most recent (in this case 2019) season.
+This was how the Python sportsreference library gathered the information for each, which differed. But both is 
+uptill or for the most recent season.
 
 ## Possible Upgrades in the Future
 - Web scrape instead of relying on a Python library
