@@ -9,6 +9,8 @@ retrieved from a website with the help of a Python library to create the App usi
 
 Note: Data on 2020 Season has yet to be added. 
 
+Recent Updates: Schedule under construction, 2020 Roster data added
+
 Want to see the App? [Click Here](https://ashoksteelers12.shinyapps.io/TAMUSports/)
 
 ## Technology
